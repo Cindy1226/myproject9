@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="708ca278-d09b-454d-b879-393016f0df41" name="Changes" comment="merged">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cindy/score/Student.kt" afterDir="false" />
+    <list default="true" id="708ca278-d09b-454d-b879-393016f0df41" name="Changes" comment="6/17 first commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cindy/score/Student.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cindy/score/Student.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +51,7 @@
     "settings.editor.selected.configurable": "preferences.language.Kotlin"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Kotlin.StudentKt">
     <configuration name="PersonKotlinKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.cindy.PersonKotlinKt" />
       <module name="myproject9.main" />
@@ -59,8 +59,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StudentKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cindy.com.cindy.score.StudentKt" />
+      <module name="myproject9.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.StudentKt" />
         <item itemvalue="Kotlin.PersonKotlinKt" />
       </list>
     </recent_temporary>
@@ -102,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654849428213</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="6/17 first commit">
+      <created>1655447400064</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1655447400064</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -142,10 +157,14 @@
     <MESSAGE value="initial commit2" />
     <MESSAGE value="kotlin" />
     <MESSAGE value="merged" />
-    <option name="LAST_COMMIT_MESSAGE" value="merged" />
+    <MESSAGE value="6/17 first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="6/17 first commit" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
     <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/myproject9$StudentKt.ic" NAME="StudentKt Coverage Results" MODIFIED="1655448966971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
